@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+public
+coverage
+.vscode
+.env
+*.log
+package-lock.json
